@@ -1,2 +1,2 @@
 # Xamarin Amiibopedia
-Xamarin cross-platform Amiibopedia App
+Xamarin cross-platform App to search Amiibos
